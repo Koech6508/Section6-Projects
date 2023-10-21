@@ -1,7 +1,9 @@
 Tic-Tac-Toe Game
+
 This is a simple command-line-based Tic-Tac-Toe game implemented in Java. Two players can take turns to play the game until one of them wins or the game ends in a draw. The program provides options for users to input their moves by specifying the row and column numbers.
 
 Table of Contents
+
 Getting Started
 Game Rules
 How to Play
