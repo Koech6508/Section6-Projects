@@ -1,0 +1,40 @@
+Radius is 12.0
+Circumference is 18.283185307179586
+Area is 452.3893421169302
+
+Radius is 45.0
+Circumference is 51.283185307179586
+Area is 6361.725123519331
+
+Radius is 67.0
+Circumference is 73.2831853071796
+Area is 14102.609421964582
+
+Radius is 46.0
+Circumference is 52.283185307179586
+Area is 6647.610054996002
+
+Radius is 32.0
+Circumference is 38.283185307179586
+Area is 3216.990877275948
+
+Radius is 68.0
+Circumference is 74.2831853071796
+Area is 14526.724430199203
+
+Radius is 578.0
+Circumference is 584.2831853071796
+Area is 1049555.8400818924
+
+Radius is 6778.0
+Circumference is 6784.283185307179
+Area is 1.443288003108823E8
+
+Radius is 85.0
+Circumference is 91.2831853071796
+Area is 22698.006922186254
+
+Radius is 234.0
+Circumference is 240.2831853071796
+Area is 172021.0473399627
+

@@ -1,0 +1,46 @@
+
+    public class Rectangle {
+        private double length;
+        private double width;
+
+        private static int numRectangles;
+        private static int Perimeter;
+
+
+        public Rectangle(){
+            this(1.0, 1.0);
+        }//  end no args ctor
+
+        public Rectangle(double length, double width){
+            this.length = length;
+            this.width = width;
+            numRectangles++;
+        }// end ctor
+
+        public double getLength() {
+            return length;
+        }
+
+        public double getWidth() {
+            return width;
+        }
+
+        public void setLength(double length) {
+            this.length = length;
+        }
+
+        public void setWidth(double width) {
+            this.width = width;
+        }
+        public double area(){
+            return length* width;
+        }
+        public static int getNumRectangles(){
+            return numRectangles;
+        }
+        public  double perimeter(){
+            return 2*length + 2*width;
+        }
+    }
+
+
